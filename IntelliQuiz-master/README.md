@@ -1,6 +1,6 @@
 **# IntelliQuiz **
 
-This is a Quiz Application built with Java Spring Boot for the backend, MySQL for the database, and Angular for the frontend.
+This is a Quiz Application built with Java Spring Boot for the backend, MySQL for the database, and React for the frontend.
 
 ## Features
 
@@ -19,9 +19,8 @@ This is a Quiz Application built with Java Spring Boot for the backend, MySQL fo
   - Hibernate ORM for database interaction
 
 - **Frontend:**
-  - Angular for the user interface
-  - Angular CLI for project scaffolding and development
-  - Angular Material for UI components
+  - React for the user interface
+ 
 
 ## Prerequisites
 
@@ -29,7 +28,7 @@ Before running the application, ensure you have the following installed:
 
 - Java Development Kit (JDK)
 - Node.js and npm (Node Package Manager)
-- Angular CLI
+- React
 - MySQL Database
 
 ## Getting Started
@@ -39,7 +38,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashwinicode/IntelliQuiz.git
+   git clone https://github.com/Nand0987/JavaProject
 
     Navigate to the backend folder:
 
@@ -57,7 +56,7 @@ bash
 
     The backend server will run at http://localhost:8080.
 
-Frontend (Angular)
+Frontend (React)
 
     Navigate to the frontend folder:
 
@@ -71,7 +70,7 @@ bash
 
 npm install
 
-Run the Angular application:
+Run the React application:
 
 bash
 
